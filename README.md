@@ -29,6 +29,7 @@ ChapterCut is a small Next.js website for turning book notes and short excerpts 
 Create a `.env.local` file from `.env.example` and set:
 
 `OPENAI_API_KEY=your_key_here`
+I currently do not possess any api key so feel free to use it on ur own API key
 
 If no API key is present, the app still works with a local fallback summarizer.
 
