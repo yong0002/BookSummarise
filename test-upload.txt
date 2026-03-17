@@ -1,0 +1,11 @@
+The quick brown fox jumps over the lazy dog. This is a test file for the ChapterCut summary website. 
+
+It demonstrates file upload and text extraction capabilities. The system supports both PDF and TXT file formats, allowing users to upload their notes and excerpts for automatic summarization.
+
+Key features include:
+- Simple file upload interface
+- Automatic text extraction from PDF and text files  
+- Integration with summarization models
+- Support for multiple summary modes (quick, study, actionable)
+
+This test demonstrates that the text extraction functionality is working correctly with plain text files.
